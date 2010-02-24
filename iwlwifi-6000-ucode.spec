@@ -1,5 +1,5 @@
 %define name iwlwifi-6000-ucode
-%define version 9.176.4.1
+%define version 9.193.4.1
 %define release %mkrel 1
 
 Summary: Intel PRO/Wireless 6000AGN microcode
