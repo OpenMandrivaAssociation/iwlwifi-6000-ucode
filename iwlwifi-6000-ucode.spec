@@ -9,7 +9,7 @@ Release: %{release}
 Source0: http://www.intellinuxwireless.org/iwlwifi/downloads/%{name}-%{version}.tgz
 License: Proprietary
 Group:	 System/Kernel and hardware
-Url:	 http://intellinuxwireless.org/
+Url:	 https://intellinuxwireless.org/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
